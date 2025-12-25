@@ -1,4 +1,4 @@
-# try-auto-playwright-and-browser-use
+# auto-playwright-and-browser-use
 
 This project demonstrates the use of Playwright for browser automation and testing, with both TypeScript and Python examples.
 
